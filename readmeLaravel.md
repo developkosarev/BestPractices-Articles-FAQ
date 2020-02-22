@@ -4,7 +4,31 @@
 
 ### **Использование связки Controller Service Repository Model при работе в Laravel**
 
-Статья [Как вы работаете с Laravel](https://habr.com/ru/post/350778/ "Использование связки Controller Service Repository Model в  Laravel") расказывает о том как работать с сервис классом и репозиторием.
+Статья [Как вы работаете с Laravel](https://habr.com/ru/post/350778/ "Использование связки Controller Service Repository Model в Laravel") расказывает о том как работать с сервис классом и репозиторием.
+
+### https://klisl.com
+
+Статья [Архитектура Laravel](https://klisl.com/laravel_architecture.html "Архитектура Laravel") 
+
+Статья [Сервис провайдеры](https://klisl.com/laravel_service_providers.html "Сервис провайдеры") 
+
+Статья [Как разделить роли в Laravel](https://habr.com/ru/company/simbirsoft/blog/481796/ "Как разделить роли в Laravel") 
+
+### https://laravel.demiart.ru/tag/laravel/ 
+
+Статья [Паттерн репозиторий](https://laravel.demiart.ru/repository-design-pattern/ "Паттерн репозиторий Laravel") 
+
+Статья [Паттерн сервисный слой в Laravel](https://laravel.demiart.ru/service-layer-design-pattern/) 
+
+Статья [Реализация своего интерфейса под способы оплаты](https://ru.stackoverflow.com/questions/943573/%D0%A0%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D1%81%D0%B2%D0%BE%D0%B5%D0%B3%D0%BE-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0-%D0%BF%D0%BE%D0%B4-%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D1%8B-%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D1%8B-laravel)
+
+
+### Resource в Laravel для API (убрать из модели лишние данные ProductResource) 
+Статья [Ресурсы для API в Laravel](https://scotch.io/tutorials/laravel-eloquent-api-resources#toc-prerequisites-)  
+Вопросы по ресурсам
+https://stackoverflow.com/questions/49494472/laravel-eloquent-resource-collection-response
+
+Статья [Презентары](http://laravel-news.ru/blog/tutorials/presenters-in-laravel)
 
 ### **Основые команды Artisan**
 
@@ -12,6 +36,7 @@
 2. Добавляем аутентификацию в проект (php artisan make:auth)
 3. Создаем модель (php artisan make:model Category -m) 
 4. Создаем модель (php artisan make:model Product -m   ключ -m создает миграцию)  
+
 ##### **В миграции прописываем вручную все поля и связи**
 1. Выполняем миграцию  
 (php artisan migrate)  
