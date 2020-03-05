@@ -5,6 +5,8 @@ There are many different articles about IT
 
 [Laravel](readmeLaravel.md)
 
+[Symfony](readmeSymfony.md)
+
 [PHP](readmePHP.md)
 
 [VUE.JS](readmeVue.md)
@@ -16,4 +18,6 @@ There are many different articles about IT
 [C#](readmeCSharp.md)
 
 [Git](readmeGit.md)
+
+[English](readmeEnglish.md)
 

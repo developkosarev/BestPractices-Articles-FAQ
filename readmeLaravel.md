@@ -34,6 +34,8 @@ https://stackoverflow.com/questions/49494472/laravel-eloquent-resource-collectio
 
 Статья [Презентары](http://laravel-news.ru/blog/tutorials/presenters-in-laravel)
 
+Статья [AdminLTE](https://www.youtube.com/watch?time_continue=660&v=rZ--7wPQWuo&feature=emb_logo)
+
 ### **Основые команды Artisan**
 
 1. php artisan key:generate (генерация нового ключа)
