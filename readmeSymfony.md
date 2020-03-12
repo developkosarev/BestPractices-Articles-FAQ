@@ -17,7 +17,7 @@ https://symfony.com/doc/2.6/cookbook/routing/redirect_in_config.html
 ### **Server start**
 
 01 php -S localhost:8000 -t public
-02 yarn encore dev-server --hot
+02 yarn encore dev-server --hot --host symfony002.local
 
 02 php bin/console server:start
 03 php bin/console server:start 192.168.0.1:8080
