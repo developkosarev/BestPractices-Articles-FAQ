@@ -1,5 +1,11 @@
 ## VUE.JS
 
+## Init
+1. npm i vue-cli -g   //Установка vue-cli глобально старый cli
+1. npm install -g @vue/cli // Установка нового cli
+2. npm ls -g --depth=0 //Просмотр установленных модулей в системе
+
+
 ## Contents
 
 Cоздание основного меню
@@ -29,7 +35,8 @@ https://jimfrenette.com/2016/11/laravel-vuejs2-jwt-auth/3/
 https://medium.com/@pavelgonzales/best-practices-%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8-%D0%B4%D0%BB%D1%8F-vue-8b769589001a
 *Валидация форм Vue*
 https://habr.com/ru/company/constanta/blog/444900/
-
+*Компонент для ввода только чисел Vue*
+https://github.com/fengyuanchen/vue-number-input/blob/master/src/number-input.vue
 
 *How to add Internationalization to a Vue Application*
 https://www.freecodecamp.org/news/how-to-add-internationalization-to-a-vue-application-d9cfdcabb03b/
@@ -37,3 +44,17 @@ https://www.freecodecamp.org/news/how-to-add-internationalization-to-a-vue-appli
 
 *Блог на Vue (очень стары vue 1 версии) *
 https://github.com/Vuedo/vuedo
+
+## JSON Servet test data
+https://medium.com/codingthesmartway-com-blog/create-a-rest-api-with-json-server-36da8680136d
+Тестирование асинхронных компонент
+https://vue-test-utils.vuejs.org/ru/guides/testing-async-components.html
+Тестирование vuex модули
+https://forum.vuejs.org/t/testing-with-vue-test-utils-and-vuex/43154
+Тестирование vuex в компонентах
+https://lmiller1990.github.io/vue-testing-handbook/vuex-in-components-mutations-and-actions.html#mutations-and-actions
+
+## Create components NPM
+
+*Создание и публикация компонента npm*
+https://coderoad.ru/47754244/%D0%9A%D0%B0%D0%BA-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-%D0%B8-%D0%BE%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82-Vuejs-%D0%BD%D0%B0-NPM
