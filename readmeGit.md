@@ -54,3 +54,5 @@ git checkout -b branch3 *(быстрый способ создания вето�
 [Команды по git https://pingvinus.ru/git/1567](https://pingvinus.ru/git/1567)
 
 [Откатить изменения https://server-gu.ru/git-undo-changes/](https://server-gu.ru/git-undo-changes/)
+
+[Объединения coommit Rebase and Squash https://htmlacademy.ru/blog/boost/tools/how-to-squash-commits-and-why-it-is-needed](https://htmlacademy.ru/blog/boost/tools/how-to-squash-commits-and-why-it-is-needed)
