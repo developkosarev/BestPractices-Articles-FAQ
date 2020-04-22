@@ -39,9 +39,11 @@
 > git branch dev *(Создание новой ветки dev)*  
 > git checkout dev *(переход в ветку)*
 
-> *//соединить 2 ветки*  
+> *//соединить 2 ветки, из своей ветки в мастер *  
 > dk@icore7 MINGW64 /c/MyProgram/git/test1 (master)  
 > git merge branch2
+> *//загрузить изменения из master в свою ветку*  
+> git merge master
 
 > *//закоммитить ветки*  
 > dk@icore7 MINGW64 /c/MyProgram/git/test1 (master|MERGING)  
