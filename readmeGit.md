@@ -58,3 +58,6 @@ git checkout -b branch3 *(быстрый способ создания вето�
 [Откатить изменения https://server-gu.ru/git-undo-changes/](https://server-gu.ru/git-undo-changes/)
 
 [Объединения coommit Rebase and Squash https://htmlacademy.ru/blog/boost/tools/how-to-squash-commits-and-why-it-is-needed](https://htmlacademy.ru/blog/boost/tools/how-to-squash-commits-and-why-it-is-needed)
+
+> *//проблема с rebase*  
+https://stackoverflow.com/questions/18292578/what-does-git-masterrebase-1-1-mean-how-do-i-get-rid-of-it
