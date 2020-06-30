@@ -1,5 +1,7 @@
 ## PHP
 
+PHP interview questions [PHP interview](https://www.edureka.co/blog/interview-questions/php-interview-questions/)
+
 ## Contents
 
 Статья [Прием платежей на сайте](https://webformyself.com/minikurs/php/index-subscribe.html)
