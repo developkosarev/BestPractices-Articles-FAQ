@@ -37,3 +37,8 @@ https://stackoverrun.com/ru/q/11876059
 d:\xampp\htdocs\symfony003parser>phpunit tests\AppBundle\Controller\DefaultControllerTest.php
 d:\xampp\htdocs\symfony003parser>phpunit tests
 d:\xampp\htdocs\symfony003parser>phpunit tests\AppBundle\InvestorsParser\Local\ParserLocalTest.php
+
+
+### PHP CODESNIFFER
+https://si-dev.com/ru/blog/code-autoformatting
+https://stackoverflow.com/questions/45530721/what-sniff-needs-to-be-used-to-enforce-a-camelcase-variable-naming-convention
