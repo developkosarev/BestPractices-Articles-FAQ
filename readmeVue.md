@@ -66,6 +66,7 @@ https://github.com/creativetimofficial/vuetify-material-dashboard
 
 *Фильтр*
 https://www.codementor.io/@mtt/add-dynamic-filters-to-your-data-with-ease-using-vue-cosmic-js-rest-api-tok00ye13
+https://www.freelancer.com.bd/job-search/vuetify-data-table-custom-filter/2/?hourly_duration=4
 
 *Примеры vuetify приложений*
 https://awesomeopensource.com/project/creativetimofficial/vuetify-material-dashboard

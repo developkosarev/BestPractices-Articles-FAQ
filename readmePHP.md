@@ -2,6 +2,8 @@
 
 PHP interview questions [PHP interview](https://www.edureka.co/blog/interview-questions/php-interview-questions/)
 
+PHP SOLID [PHP SOLID](https://dev.to/evrtrabajo/solid-in-php-d8e)
+
 ## Contents
 
 Статья [Прием платежей на сайте](https://webformyself.com/minikurs/php/index-subscribe.html)
@@ -13,6 +15,9 @@ PHP interview questions [PHP interview](https://www.edureka.co/blog/interview-qu
 https://gist.github.com/odan/1abe76d373a9cbb15bed
 https://www.youtube.com/watch?v=yiQbJG_dSIc
 https://www.youtube.com/watch?v=_ua_O01IICg
+
+
+Профайлер замер времени выполнения [Профайлер замер времени выполнения](https://vpawd.ru/articles/profiling_php_applications_with_phpstorm_and_xdebug)
 
 Работающая отладка
 
