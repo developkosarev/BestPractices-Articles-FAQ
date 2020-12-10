@@ -53,6 +53,9 @@
 
 git checkout -b branch3 *(быстрый способ создания веток)*  
 
+#### ssh key
+[Создание разных ключей для bitbucket https://slicks.name/web-dev/different-ssh-keys-multiple-bitbucket-accounts.html](https://slicks.name/web-dev/different-ssh-keys-multiple-bitbucket-accounts.html)
+
 [Команды по git https://pingvinus.ru/git/1567](https://pingvinus.ru/git/1567)
 
 [Откатить изменения https://server-gu.ru/git-undo-changes/](https://server-gu.ru/git-undo-changes/)
