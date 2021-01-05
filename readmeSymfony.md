@@ -71,3 +71,7 @@ https://symfony.com/blog/new-in-fixturesbundle-group-your-fixtures
 ### **Pagination** 
 
 https://www.binpress.com/custom-pagination-php-symfony/
+
+### **Shops** 
+Каталог продуктов на symfony
+https://sylius.com/

@@ -22,3 +22,10 @@ https://github.com/richlloydmiles/chime-video-calling-client-poc
 
 //Ruby, PHP, C# chime
 https://docs.aws.amazon.com/chime/latest/APIReference/API_CreateMeeting.html
+
+//User Management in Rails 5 using Devise
+https://medium.com/@krissanawat/end-to-end-user-management-in-rails-5-using-devise-91b1bdff657
+
+//Open source software libraries for the Ruby programming language
+https://www.ruby-toolbox.com/
+https://www.ruby-toolbox.com/categories/reporting
