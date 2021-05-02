@@ -73,3 +73,10 @@ https://stackoverflow.com/questions/57432990/vuetify-data-table-inline-filter
 
 *Примеры vuetify приложений*
 https://awesomeopensource.com/project/creativetimofficial/vuetify-material-dashboard
+
+
+## Списки для однотипных API как в 1С
+
+*Реализация шаблона Builder во Vue.js, часть 1: Списки*
+https://webdevblog.ru/realizaciya-shablona-builder-vo-vue-js-chast-1-spiski/
+https://webdevblog.ru/realizaciya-shablona-builder-vo-vue-js-chast-2-formy/

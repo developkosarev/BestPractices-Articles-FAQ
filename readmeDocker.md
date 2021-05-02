@@ -25,3 +25,7 @@ https://github.com/paslandau/docker-php-tutorial/tree/part_3_structuring-the-doc
 
 ## WSL2 Debug
 https://medium.com/@tomasbruckner/intellij-xdebug-with-wsl-2-docker-4224b6efb0bb
+
+docker pull jacobalberty/firebird:2.5-ss
+docker run --name firebird_2_5-ss -d -p3050:3050 jacobalberty/firebird:2.5-ss
+docker rm firebird_2_5-ss
