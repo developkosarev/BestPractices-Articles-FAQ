@@ -51,7 +51,12 @@
 
 > git branch -d branch2 *(удалить ветку)*  
 
-git checkout -b branch3 *(быстрый способ создания веток)*  
+> git checkout -b branch3 *(быстрый способ создания веток)*  
+
+> git checkout . *(убрать все изменения)*  
+> git clean -fd *(удалить все изменения в точ сисле новые файлы)*  
+
+
 
 #### ssh key
 [Создание разных ключей для bitbucket https://slicks.name/web-dev/different-ssh-keys-multiple-bitbucket-accounts.html](https://slicks.name/web-dev/different-ssh-keys-multiple-bitbucket-accounts.html)
