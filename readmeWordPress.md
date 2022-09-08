@@ -12,4 +12,18 @@
 ```
 $ vi /etc/group
 $ sudo groupadd test (add group)
+$ groups dk && groups deploy (list of user groups)
+```
+
+
+### Process
+```
+$ htop
+$ top
+$ ps -efH
+```
+
+### Apache
+```
+sudo service apache2 restart|stop|start 
 ```
