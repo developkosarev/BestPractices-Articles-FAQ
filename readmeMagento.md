@@ -23,4 +23,4 @@ bin/magento dev:urn-catalog:generate .idea/misc.xml
 
 
 ### Modules
-module-theme responsible for base layouts (1column.xml, 2column-left.xml, .....)
+**module-theme** responsible for base layouts (1column.xml, 2column-left.xml, .....)
