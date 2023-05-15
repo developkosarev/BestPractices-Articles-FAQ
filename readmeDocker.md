@@ -1,5 +1,21 @@
 ## DOCKER
 
+##### Запуск контейнера (проверяет локальный реестр и если нет, скачивание контейнера и запуск)
+> docker run hello-world
+> docker run -it node
+
+##### Просмотр всех образов (шаблоны)
+> docker images | grep hello
+
+##### Просмотр контейнеров (контейнет собирается из image)
+> docker ps -a | grep node
+
+##### Вход в контейнер и запуск команд в контейнере
+> docker exec -it name-of-container_phpfpm_7 bash
+
+
+
+
 ## Win
 https://www.pascallandau.com/blog/php-php-fpm-and-nginx-on-docker-in-windows-10/  
 
