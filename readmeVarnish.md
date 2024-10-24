@@ -23,4 +23,5 @@ https://www.varnish-software.com/developers/tutorials/configuring-varnish-system
 
 ```bash
 sudo systemctl edit varnish.service
+cat /lib/systemd/system/varnish.service
 ```
