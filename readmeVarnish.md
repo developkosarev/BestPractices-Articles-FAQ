@@ -47,3 +47,27 @@ ExecStart=/usr/sbin/varnishd \
           -p workspace_client=2M \
           -p workspace_thread=6k
 ```
+
+## FREE MEMORY Steps:
+Run varnishstat: This command will display various metrics for Varnish, including memory usage.
+
+bash
+Copy code
+varnishstat
+This outputs a lot of information. To narrow it down, look for the specific statistics related to malloc.
+
+Look for malloc metrics: In the output of varnishstat, you will find the following relevant malloc statistics:
+
+```bash
+SMA.s0.g_space (for free memory): This shows the amount of free memory in the malloc storage backend (s0 refers to the storage instance).
+SMA.s0.c_bytes (for allocated memory): This shows the amount of memory that has already been allocated.
+SMA.s0.g_bytes (for total memory): This represents the total memory available in the malloc backend.
+```
+
+Example (simplified output):
+
+```bash
+SMA.s0.g_space          1.23G        Free memory in malloc storage
+SMA.s0.c_bytes          3.45G        Allocated memory
+SMA.s0.g_bytes          5.00G        Total malloc memory
+```
