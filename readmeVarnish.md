@@ -1,3 +1,5 @@
+
+```bash
 #https://ma.ttias.be/reload-varnish-vcl-without-losing-cache-data/
 #VARNISH_0 = /etc/init.d/varnish reload
 
@@ -14,3 +16,11 @@
 @echo "$(call format,varnishhist,'Varnish [varnishhist]')"
 @echo "$(call format,varnishstat,'Varnish [varnishstat]')"
 @echo "$(call format,varnishadm,'Varnish param show [varnishadm param.show]')"
+```
+
+How to change Varnish config
+https://www.varnish-software.com/developers/tutorials/configuring-varnish-systemd-services/
+
+```bash
+sudo systemctl edit varnish.service
+```
