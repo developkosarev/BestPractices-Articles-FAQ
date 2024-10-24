@@ -24,4 +24,26 @@ https://www.varnish-software.com/developers/tutorials/configuring-varnish-system
 ```bash
 sudo systemctl edit varnish.service
 cat /lib/systemd/system/varnish.service
+Editing /etc/systemd/system/varnish.service.d/override.conf
+```
+
+```bash
+dev@magento2-varnish:~$ cat /etc/systemd/system/varnish.service.d/override.conf
+[Service]
+ExecStart=
+ExecStart=/usr/sbin/varnishd \
+          -F \
+          -a :6081 \
+          -T localhost:6082 \
+          -p feature=+http2 \
+          -f /etc/varnish/default.vcl \
+          -s malloc,16g \
+          -p http_max_hdr=4096 \
+          -p http_resp_hdr_len=1M \
+          -p http_req_hdr_len=32k \
+          -p http_req_size=64k \
+          -p http_resp_size=1M \
+          -p workspace_backend=2M \
+          -p workspace_client=2M \
+          -p workspace_thread=6k
 ```
