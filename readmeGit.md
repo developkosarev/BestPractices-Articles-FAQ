@@ -33,8 +33,9 @@
 > git clone https://github.com/cfgsoft/git_test.git  
 *(клонирует проект на удаленный репозиторий)*  
 
-> git pull  
+> git pull, git pull origin  
 *(Загрузить изменения из удаленного репозитория)*
+
 
 #### Ветки
 > git branch *(Просмотр веток)*  
