@@ -21,7 +21,7 @@
 > git log -2 *(выводит 2 последних commit)*  
 
 ##### Работа с удаленным репозиторием
-> get remote -v
+> get remote -v   
 *Просмотр удаленный репозиториев*
 
 > git remote add origin https://github.com/cfgsoft/git_test.git  
